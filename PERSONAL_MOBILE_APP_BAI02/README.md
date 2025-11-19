@@ -52,9 +52,7 @@ Dưới đây là ảnh chụp giao diện chính của ứng dụng.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/xinloihuy/PERSONAL_MOBILE_APP_BAI02
-   ```
+  
 2. Open the project in **Android Studio**.
 3. Wait for Gradle to finish building the project.
 4. To run the app:
@@ -65,10 +63,7 @@ Dưới đây là ảnh chụp giao diện chính của ứng dụng.
 
 ---
 
-## Author
 
-**Name: Xín Lợi Huy**
-**Email: [23110231@student.hcmute.edu.vn](mailto:23110231@student.hcmute.edu.vn)**
-**Phone number: 0339969176**
+
 
 ---
